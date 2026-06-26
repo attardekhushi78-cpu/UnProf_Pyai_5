@@ -27,9 +27,7 @@
     <li><a href="#usage-and-test-case-matrix">Usage & Test Case Matrix</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    
   </ol>
 </details>
 
@@ -81,7 +79,7 @@ Because this application relies entirely on native modules bundled directly into
 * **Python 3.8 or higher** active on your local computer workspace machine.
 
 ### Local Setup Execution
-```bash
+
 # 1. Clone your project repository workspace
 git clone [https://github.com/github_username/unprof.git](https://github.com/github_username/unprof.git) && cd unprof
 
@@ -90,3 +88,32 @@ git remote -v
 
 # 3. Boot up the text extraction shell runner
 python info_extractor.py
+
+
+
+
+## Roadmap
+ Phase 1 Day 3: Build diagnostic exception handling log channels.
+
+ Phase 1 Day 4: Integrate external API requests forecast networks.
+
+ Phase 1 Day 5: Engineer multi-pattern text processing regex engines (re.findall).
+
+ Phase 2: Add local clipboard listeners to automatically read data on hotkey triggers.
+
+ Phase 2: Integrate secure encryption filters to mask private tracking entries upon output.
+
+## Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any improvements you bring to optimizing this operational system workspace are highly valued.
+
+If you have a structural suggestion that would make this model better, please fork the repository workspace and open a clean pull request. You can also simply open an issue ticket flagged with the "enhancement" metadata tag.
+
+Fork the Project Workspace
+
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
+Commit your configuration updates safely (git commit -m 'Add some AmazingFeature')
+
+Push code updates directly to your tracking origin (git push origin feature/AmazingFeature)
+
+Open a professional Pull Request
