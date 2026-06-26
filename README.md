@@ -10,11 +10,11 @@
   <a href="https://drive.google.com/file/d/12mxfo6DZQfjkeG-RBGXAg356ob71RgZ4/view?usp"><strong>Watch App Demo Video »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/attardekhushi78-cpu/unprof">Explore Codebase</a>
+  <a href="https://github.com/attardekhushi78-cpu/UnProf_Pyai_5">Explore Codebase</a>
   ·
-  <a href="https://github.com/attardekhushi78-cpu/unprof/issues">Report Bug</a>
+  <a href="https://github.com/attardekhushi78-cpu/UnProf_Pyai_5/issues">Report Bug</a>
   ·
-  <a href="https://github.com/attardekhushi78-cpu/unprof/issues">Request Feature</a>
+  <a href="https://github.com/attardekhushi78-cpu/UnProf_Pyai_5/issues">Request Feature</a>
 </p>
 
 <details>
